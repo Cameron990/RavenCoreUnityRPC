@@ -5,7 +5,7 @@ using System.Collections;
 
 public class RavenWalletScript : MonoBehaviour
 {
-    private string rpcUsername = "Your_User_Name";
+    private string rpcUsername = "Your_UserName";
     private string rpcPassword = "Change_This_Password";
     private string rpcIP = "127.0.0.1";
     private string rpcPort = "8766";
